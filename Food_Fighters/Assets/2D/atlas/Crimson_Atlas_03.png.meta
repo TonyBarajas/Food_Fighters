@@ -1,0 +1,464 @@
+fileFormatVersion: 2
+guid: fc57acf0fe04ced459f98bf0009faf23
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crimson_Punch_01
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 2090
+        width: 381
+        height: 569
+      alignment: 9
+      pivot: {x: 0.9396372, y: 0.020851068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e94e28c96c198488d78f1abb151072
+      internalID: -222982363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crimson_Punch_02
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 2086
+        width: 381
+        height: 569
+      alignment: 9
+      pivot: {x: 0.86480504, y: 0.013021834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbc00ae459d3314d854a043c1d88c81
+      internalID: -1662007143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crimson_Punch_03
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 2086
+        width: 381
+        height: 596
+      alignment: 9
+      pivot: {x: 0.86480504, y: 0.013021834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823e0ccdd6ce50244890170f62d21cfa
+      internalID: 234536007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crimson_Punch_04
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 2086
+        width: 381
+        height: 596
+      alignment: 9
+      pivot: {x: 0.9139132, y: 0.011527042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08c86294c325bc40b734a51cc29bcbc
+      internalID: 2108193955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crimson_Punch_05
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1414
+        width: 381
+        height: 596
+      alignment: 9
+      pivot: {x: 0.9139132, y: 0.011527042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d810706461e9c064085da8776d04064b
+      internalID: -1167159999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crimson_Punch_07
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1414
+        width: 381
+        height: 596
+      alignment: 9
+      pivot: {x: 0.84873855, y: 0.014732207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40e8b5faa4e8cc4385785320d25cc35
+      internalID: -50356018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crimson_Punch_08
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 752
+        width: 524
+        height: 596
+      alignment: 9
+      pivot: {x: 0.6906039, y: 0.010815819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84dbffd3ca1800e4c96867032323a88a
+      internalID: 1356066746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crimson_Punch_09
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 789
+        width: 532
+        height: 550
+      alignment: 9
+      pivot: {x: 0.6906043, y: 0.021100631}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61c061f057425a41a222f4439f6092f
+      internalID: -1349205779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crimson_Atlas_03_0
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 752
+        width: 524
+        height: 596
+      alignment: 9
+      pivot: {x: 0.6906039, y: 0.010815819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adce8228264faa4a8413887ca2ee0e7
+      internalID: -922827745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crimson_Punch_10
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 777
+        width: 524
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5897643, y: 0.005156856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2128cb090bce6d4c90e6b501b27757e
+      internalID: -1612790618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crimson_Cover_01
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 157
+        width: 524
+        height: 596
+      alignment: 9
+      pivot: {x: 0.49349555, y: 0.011202563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e7235c0c6b5d74392ed400c8be840f
+      internalID: 773585101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crimson_Cover_02
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 168
+        width: 524
+        height: 596
+      alignment: 9
+      pivot: {x: 0.49349555, y: 0.011202563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6e1d8169c68824495a4685850fe77f
+      internalID: 683965936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crimson_Cover_03
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 168
+        width: 524
+        height: 596
+      alignment: 9
+      pivot: {x: 0.55194443, y: 0.011202665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f51e5b8e6cbf3f448a1a7a07352130c
+      internalID: -3380185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crimson_Cover_04
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 146
+        width: 487
+        height: 596
+      alignment: 9
+      pivot: {x: 0.4964537, y: 0.020271122}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea86191e6ea6e64a8091aaf6f03983a
+      internalID: -1382536471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crimson_Cover_05
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 146
+        width: 487
+        height: 596
+      alignment: 9
+      pivot: {x: 0.51088005, y: 0.012412718}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1284b15edc26f5b46b158cd8d5e7373c
+      internalID: 1975506563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fb9c2a3dac4dbd84dbb0d8834db02df5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Crimson_Punch_02: -1662007143
+      Crimson_Punch_04: 2108193955
+      Crimson_Cover_04: -1382536471
+      Crimson_Atlas_03_0: -922827745
+      Crimson_Punch_09: -1349205779
+      Crimson_Punch_08: 1356066746
+      Crimson_Punch_07: -50356018
+      Crimson_Punch_10: -1612790618
+      Crimson_Punch_05: -1167159999
+      Crimson_Cover_05: 1975506563
+      Crimson_Cover_03: -3380185
+      Crimson_Cover_02: 683965936
+      Crimson_Punch_01: -222982363
+      Crimson_Punch_03: 234536007
+      Crimson_Cover_01: 773585101
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
