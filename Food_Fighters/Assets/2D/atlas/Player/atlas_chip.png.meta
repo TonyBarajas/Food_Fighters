@@ -1,0 +1,916 @@
+fileFormatVersion: 2
+guid: b306f3a0a9d0e3f4bababfe913cef6bd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chip_Idle_01
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1762
+        width: 151
+        height: 267
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66633ffaa66265b4dbe5702169399621
+      internalID: 1197878051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chip_Idle_02
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1763
+        width: 151
+        height: 267
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d46db77a7bffe4faa7f0af9eba44bc
+      internalID: 481333925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chip_Idle_03
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1763
+        width: 151
+        height: 267
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f825ffdba4ca2b4bbaef07fb33b1ac3
+      internalID: 1957007972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chip_Idle_04
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1763
+        width: 151
+        height: 267
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d0e83ec7be8ac4081dea779abcbad8
+      internalID: 31641305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chip_Idle_05
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1763
+        width: 151
+        height: 267
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dac1a420058c4c43b3864e1b7a27411
+      internalID: -1011340932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chip_Idle_06
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 1761
+        width: 151
+        height: 267
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638b2333ff021a74894de30054e4ef6a
+      internalID: -1192906604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chip_Jump_01
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1383
+        width: 178
+        height: 316
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87d07c71864583488038261691073fb
+      internalID: -1535762831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chip_Jump_02
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1383
+        width: 188
+        height: 316
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5eff2b3e93994418f83866c626f8ab
+      internalID: -849114914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chip_Jump_03
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1383
+        width: 188
+        height: 316
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c1203363d70c74cab52c9a86cedfd2
+      internalID: 379554164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chip_Jump_04
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1436
+        width: 188
+        height: 267
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df42a1ec5362bee47a9b6134adff5b1a
+      internalID: -1483682747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chip_Jump_05
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1436
+        width: 188
+        height: 267
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d61a03238cb934baf4343e565a812e
+      internalID: -1160629930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chip_Jump_06
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1390
+        width: 188
+        height: 292
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb156d08bd6e894aa2c3838aa506419
+      internalID: 1158992226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chip_Jump_07
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1387
+        width: 188
+        height: 301
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a36874eb4eebaf449b35a6fe21f0839
+      internalID: 62990139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chip_walk_01
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1072
+        width: 178
+        height: 251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28beec1870f6b3f439e7e570c67d36e6
+      internalID: -1538957938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chip_walk_02
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1072
+        width: 178
+        height: 251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2f147398d80c3429843ed83867fa0e
+      internalID: 765685082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chip_walk_03
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1074
+        width: 178
+        height: 251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393262ece347a0d48a448abd54a491ec
+      internalID: 63003580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chip_walk_4
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1074
+        width: 178
+        height: 251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e90fde169633b45af8231902a6fd86
+      internalID: 1986098085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chip_walk_5
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1079
+        width: 178
+        height: 251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecd37d32f60694459da1c36f4178a2f
+      internalID: -210430934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chip_walk_6
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 1072
+        width: 178
+        height: 251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57266e19f0d73f549aae280b3c507fa8
+      internalID: -1598776896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chip_Cover_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 766
+        width: 148
+        height: 271
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d07eea80d2b12045828570d713134d0
+      internalID: 203784638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chip_Cover_2
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 762
+        width: 148
+        height: 271
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f9118ebcf617948a3996cbab5f65f7
+      internalID: -1763551215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chip_Cover_3
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 762
+        width: 148
+        height: 271
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1876a998b8701b84f8474c2b5b98530c
+      internalID: 983230072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chip_Cover_4
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 762
+        width: 148
+        height: 271
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd048af388a9e14791da2897944aef4
+      internalID: -1435416851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chip_Cover_5
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 762
+        width: 148
+        height: 271
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7eb93f706cae174bb2c39aec8568ec9
+      internalID: 332678481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chip_dead_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 451
+        width: 148
+        height: 271
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5336b96b21ec84cbaaf288c3fd9dbc
+      internalID: -614248459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chip_dead_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 451
+        width: 158
+        height: 271
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfe0aef8a6f1a941a0ef062365edbe9
+      internalID: -202653466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chip_dead_3
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 451
+        width: 273
+        height: 271
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15aec0c8543bc7f4c9141891a0e7ca75
+      internalID: -421997538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chip_attack_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 84
+        width: 201
+        height: 277
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ed8334e3ad0484eb21050caf92aa5d
+      internalID: -1089938593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chip_attack_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 169
+        height: 277
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c079526865873a647871a45a0829a06e
+      internalID: -458856447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chip_attack_3
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 84
+        width: 201
+        height: 277
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa2f5366d79b28458ec375a84d522f1
+      internalID: 1635577430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chip_attack_4
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 84
+        width: 201
+        height: 277
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2b98c5c85317a4ba2b0bbda151e9b2
+      internalID: 944860530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chip_attack_5
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 84
+        width: 201
+        height: 277
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22045627f187de4fa12c8a2b9156f33
+      internalID: 1286831344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chip_attack_6
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 84
+        width: 201
+        height: 277
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b491b1f5163784780867d0196bd481
+      internalID: 7152914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chip_attack_7
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 84
+        width: 201
+        height: 277
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb39e90d9a8b07f4fa21ef83c5053d93
+      internalID: 828317600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chip_attack_8
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 84
+        width: 201
+        height: 277
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb5ebc9a182bdd419568ce6f22e74bb
+      internalID: -2057546901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chip_attack_9
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 84
+        width: 201
+        height: 277
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26decc7a633a54846bda48d8a3c42593
+      internalID: -1550603048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 14cc24e3d564c9643a56862e91fa61be
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Chip_walk_5: -210430934
+      Chip_attack_1: -458856447
+      Chip_Idle_05: -1011340932
+      Chip_Jump_04: -1483682747
+      Chip_walk_4: 1986098085
+      Chip_Cover_2: -1763551215
+      Chip_Idle_04: 31641305
+      Chip_attack_9: -1550603048
+      Chip_walk_03: 63003580
+      Chip_Cover_5: 332678481
+      Chip_walk_6: -1598776896
+      Chip_attack_5: 1286831344
+      Chip_walk_01: -1538957938
+      Chip_dead_1: -614248459
+      Chip_dead_2: -202653466
+      Chip_attack_8: -2057546901
+      Chip_attack_3: 1635577430
+      Chip_attack_7: 828317600
+      Chip_Jump_02: -849114914
+      Chip_Idle_03: 1957007972
+      Chip_Cover_3: 983230072
+      Chip_Jump_01: -1535762831
+      Chip_Jump_06: 1158992226
+      Chip_Idle_02: 481333925
+      Chip_attack_4: 944860530
+      Chip_Jump_03: 379554164
+      Chip_Cover_4: -1435416851
+      Chip_Idle_01: 1197878051
+      Chip_Cover_1: 203784638
+      Chip_dead_3: -421997538
+      Chip_attack_6: 7152914
+      Chip_attack_2: -1089938593
+      Chip_walk_02: 765685082
+      Chip_Jump_07: 62990139
+      Chip_Idle_06: -1192906604
+      Chip_Jump_05: -1160629930
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

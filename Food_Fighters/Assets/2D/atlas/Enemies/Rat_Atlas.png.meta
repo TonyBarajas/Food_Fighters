@@ -1,0 +1,565 @@
+fileFormatVersion: 2
+guid: d9729b00d2c71f04cbed4338198a10e7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rat_walking_02
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 660
+        width: 465
+        height: 291
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fec7d3b5abd8d488e5be45ecb0a6fa
+      internalID: -1089884480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_walking_01
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 661
+        width: 478
+        height: 291
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859702a416525c74784cbd2f81384b06
+      internalID: -1262376126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_walking_03
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 364
+        width: 496
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4758bb8340b214f468c675706369bd60
+      internalID: 1222387864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_walking_04
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 355
+        width: 496
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eddabaa931a57045998505c363110e2
+      internalID: -1448110282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_walking_05
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 361
+        width: 496
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446ba8146fb95f641a8bd907429681e7
+      internalID: 1049890139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_walking_06
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 357
+        width: 496
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5f60d3a24647541990903124a912bd
+      internalID: 510064221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Dead_01
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1695
+        width: 495
+        height: 291
+      alignment: 9
+      pivot: {x: 0.8093402, y: 0.035276223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3156f26b437d23b4b90c0122e42be1ba
+      internalID: 32325122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Dead_02
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1695
+        width: 516
+        height: 291
+      alignment: 9
+      pivot: {x: 0.8080598, y: 0.014846015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6bc5a244aea684d9c85d2bcf87d20f
+      internalID: 424052171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Dead_03
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1698
+        width: 495
+        height: 288
+      alignment: 9
+      pivot: {x: 0.8080598, y: 0.014846015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed37bf488eb09e4998bc7af150dbc15
+      internalID: -1351737900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Dead_04
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1689
+        width: 492
+        height: 297
+      alignment: 9
+      pivot: {x: 0.8080598, y: 0.014846015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a25faffcc166724897396acf27035c1
+      internalID: 1956383699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Dead_08
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 1332
+        width: 492
+        height: 297
+      alignment: 9
+      pivot: {x: 0.8080598, y: 0.014846015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cee09ded69ac44a846f8d1ed38bd78
+      internalID: 1129434978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Dead_07
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1332
+        width: 492
+        height: 297
+      alignment: 9
+      pivot: {x: 0.8080598, y: 0.014846015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde2ecf1c64463a44a2d958090b02358
+      internalID: -1334451618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Dead_06
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1332
+        width: 492
+        height: 297
+      alignment: 9
+      pivot: {x: 0.8080598, y: 0.014846015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2d831b320e07d4fa88abe87df0fdc4
+      internalID: -547565009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Dead_05
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1332
+        width: 492
+        height: 297
+      alignment: 9
+      pivot: {x: 0.8117639, y: 0.009051288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ec71c146e455d42985e8cd966c061d
+      internalID: 712089324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Dead_09
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 990
+        width: 492
+        height: 297
+      alignment: 9
+      pivot: {x: 0.81, y: 0.009051288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950b27830c67f2f4faf2e4bfea042e7c
+      internalID: 1998684664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Dead_10
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 984
+        width: 492
+        height: 297
+      alignment: 9
+      pivot: {x: 0.81, y: 0.009051288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a30002fccb46d479122132f9645c66
+      internalID: 720473103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Dead_11
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 974
+        width: 492
+        height: 297
+      alignment: 9
+      pivot: {x: 0.81, y: 0.009051288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d30871b5a625b44b972a857c40ae88d
+      internalID: -624979917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Dead_12
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 974
+        width: 492
+        height: 297
+      alignment: 9
+      pivot: {x: 0.81, y: 0.009051288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832647786233f3f47868fb87e7c5f15f
+      internalID: 446523411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Dead_13
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 645
+        width: 492
+        height: 297
+      alignment: 9
+      pivot: {x: 0.81, y: 0.009051288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccb8f44bb264d54baf5311644942db4
+      internalID: 125305491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Dead_14
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 642
+        width: 492
+        height: 294
+      alignment: 9
+      pivot: {x: 0.81, y: 0.009051288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6639c57a3033a1b4690452063dfdb436
+      internalID: -752044672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8c942ca6bd026c94e85549ed8483b270
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Rat_Dead_14: -752044672
+      Rat_walking_03: 1222387864
+      Rat_Dead_11: -624979917
+      Rat_Dead_03: -1351737900
+      Rat_Dead_09: 1998684664
+      Rat_walking_02: -1089884480
+      Rat_walking_06: 510064221
+      Rat_Dead_04: 1956383699
+      Rat_Dead_13: 125305491
+      Rat_Dead_07: -1334451618
+      Rat_Dead_08: 1129434978
+      Rat_dead_01: -1552914919
+      Rat_Dead_06: -547565009
+      Rat_walking_04: -1448110282
+      Rat_walking_01: -1262376126
+      Rat_Dead_10: 720473103
+      Rat_Dead_01: 32325122
+      Rat_Dead_05: 712089324
+      Rat_Dead_12: 446523411
+      Rat_walking_05: 1049890139
+      Rat_Dead_02: 424052171
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
