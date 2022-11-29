@@ -6,5 +6,6 @@ using UnityEngine;
 [Serializable]public class Wave
 {
     public int weakEnemyCount;
-   
+    public int weakEnemy2Count;
+
 }
