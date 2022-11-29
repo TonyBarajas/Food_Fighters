@@ -22,17 +22,17 @@ public class PlayerCombat : MonoBehaviour
 
     void Attack()
     {
-        animator.SetTrigger("Attack");
+        animator.SetTrigger("Attack");  //Despliega la animación del attaque
         Collider[] hitEnemies = Physics.OverlapSphere(attackpoint.position, attackRange, Enemy);
         foreach(Collider enemy in hitEnemies)
         {
-            Debug.Log("We hit + enemy.name");
+            Debug.Log("We hit + enemy.name"); // debug para comprobar que si funcionara :p 
         }
 
         
     }
 
-    private void OnDrawGizmosSelected()
+    private void OnDrawGizmosSelected() // draw gizmo para ubicar donde se encuentra el punto de referencia de attaque
     {
         if (attackpoint == null)
             return;
