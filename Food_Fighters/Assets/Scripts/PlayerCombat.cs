@@ -6,9 +6,13 @@ public class PlayerCombat : MonoBehaviour
 {
 
     public Animator animator;
+    public AudioSource Audio;
+    
     public Transform attackpoint;
     public float attackRange = 0.5f;
-    public LayerMask Enemy;
+    public LayerMask enemyLayers;
+    public int attackDamage = 120;
+
   
     // Update is called once per frame
     void Update()
@@ -23,9 +27,12 @@ public class PlayerCombat : MonoBehaviour
     void Attack()
     {
         animator.SetTrigger("Attack");  //Despliega la animación del attaque
-        Collider[] hitEnemies = Physics.OverlapSphere(attackpoint.position, attackRange, Enemy);
-        foreach(Collider enemy in hitEnemies)
+        Audio.Play();
+        
+        Collider[] hitEnemies = Physics.OverlapSphere(attackpoint.position, attackRange, enemyLayers); //revisa cada uno de los elementos que golpea el ataque
+        foreach(Collider enemy in hitEnemies) //se activa cuando el ataque entra contra un collider dentro de un enemy
         {
+            enemy.GetComponent<Enemy_Health>().ReceiveDamage(attackDamage); //se accesa la salud del enemigo y se le resta el daño hecho 
             Debug.Log("We hit + enemy.name"); // debug para comprobar que si funcionara :p 
         }
 

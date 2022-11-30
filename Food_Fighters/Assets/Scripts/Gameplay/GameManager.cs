@@ -66,4 +66,6 @@ public class GameManager : MonoBehaviour
         _levelCurrencyManager.AddCurrency(val);
     }
 
+   
+
 }

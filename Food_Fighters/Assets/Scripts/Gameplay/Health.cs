@@ -7,7 +7,7 @@ using UnityEngine.UI;
 public class Health : MonoBehaviour
 {
     [SerializeField]private int _health = 100;
-    private int _currentHealth = 100;
+    public int _currentHealth = 100;
     [SerializeField] private UnityEvent <float> _onHealthChanged = new UnityEvent<float>();
     [SerializeField]private UnityEvent _onDeath = new();
     public Text healthText;
@@ -30,6 +30,7 @@ public class Health : MonoBehaviour
         }
 
         _onHealthChanged?.Invoke(arg0: (float)_currentHealth / _health); //la interrogación se asegura de que el objeto exista y pueda ejecutarse
+
         if (_currentHealth == 0)
             _onDeath?.Invoke();
     }

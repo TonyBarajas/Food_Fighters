@@ -69,6 +69,7 @@
     <Compile Include="Assets\Textures\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
     <Compile Include="Assets\Scripts\Gameplay\OnEnemyDeath.cs" />
     <Compile Include="Assets\Textures\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_A.cs" />
+    <Compile Include="Assets\Scripts\Player_controller_2.cs" />
     <Compile Include="Assets\Scripts\Gameplay\LookDirection.cs" />
     <Compile Include="Assets\Scripts\Gameplay\Anim_Turret.cs" />
     <Compile Include="Assets\Scripts\New_Movement.cs" />
@@ -84,15 +85,18 @@
     <Compile Include="Assets\Textures\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
     <Compile Include="Assets\Textures\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_UiFrameRateCounter.cs" />
     <Compile Include="Assets\Scripts\Gameplay\TurretPlacement.cs" />
+    <Compile Include="Assets\Scripts\Player_Data.cs" />
     <Compile Include="Assets\Textures\TextMesh Pro\Examples &amp; Extras\Scripts\CameraController.cs" />
     <Compile Include="Assets\Textures\TextMesh Pro\Examples &amp; Extras\Scripts\TMPro_InstructionOverlay.cs" />
     <Compile Include="Assets\Scripts\Gameplay\GameManager.cs" />
     <Compile Include="Assets\Textures\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_ExampleScript_01.cs" />
     <Compile Include="Assets\Textures\TextMesh Pro\Examples &amp; Extras\Scripts\TextConsoleSimulator.cs" />
+    <Compile Include="Assets\Scripts\Enemy_Health.cs" />
     <Compile Include="Assets\Scripts\Utils\ISignal.cs" />
     <Compile Include="Assets\Textures\TextMesh Pro\Examples &amp; Extras\Scripts\ObjectSpin.cs" />
     <Compile Include="Assets\Textures\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextInfoDebugTool.cs" />
     <Compile Include="Assets\Scripts\Gameplay\TurretManagement.cs" />
+    <Compile Include="Assets\Scripts\SaveSystem.cs" />
     <Compile Include="Assets\Textures\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventCheck.cs" />
     <Compile Include="Assets\Scripts\Gameplay\UITurretSelection.cs" />
     <Compile Include="Assets\Textures\TextMesh Pro\Examples &amp; Extras\Scripts\ShaderPropAnimator.cs" />
@@ -109,6 +113,7 @@
     <Compile Include="Assets\Scripts\Gameplay\RaycastShooting.cs" />
     <Compile Include="Assets\Textures\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark03.cs" />
     <Compile Include="Assets\Scripts\Gameplay\AnimationEnemy.cs" />
+    <Compile Include="Assets\Scripts\SettingsMenu.cs" />
     <Compile Include="Assets\Scripts\Gameplay\EnemyManager.cs" />
     <Compile Include="Assets\Scripts\Gameplay\Hoover.cs" />
     <Compile Include="Assets\Textures\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_FrameRateCounter.cs" />
@@ -120,6 +125,7 @@
     <Compile Include="Assets\Scripts\Gameplay\FollowPathMovement.cs" />
     <Compile Include="Assets\Textures\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_B.cs" />
     <Compile Include="Assets\Scripts\Utils\SpawnObject.cs" />
+    <Compile Include="Assets\Scripts\Chip_Health.cs" />
     <Compile Include="Assets\Scripts\PlayerCombat.cs" />
     <Compile Include="Assets\Scripts\Utils\Debugy.cs" />
     <Compile Include="Assets\Scripts\Layer.cs" />

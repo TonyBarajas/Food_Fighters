@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEngine.Events;
 public class ScoreManager : MonoBehaviour
 {
-    private int _score = 0;
+    public int _score = 0;
     [SerializeField] private UnityEvent<int> _OnScoreChange = new();
 
     private void Start()
@@ -17,6 +17,20 @@ public class ScoreManager : MonoBehaviour
     {
         _score += value;
         _OnScoreChange?.Invoke(_score);
+    }
+
+    public void SavePlayer()
+    {
+        SaveSystem.SavePlayer(this);
+    }
+
+    public void  LoadPlayer()
+    {
+        Player_Data dataPoints = SaveSystem.LoadPlayer();
+
+        _score = dataPoints.Puntos;
+
+
     }
 
 }

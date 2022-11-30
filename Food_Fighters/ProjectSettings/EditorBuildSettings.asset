@@ -12,12 +12,12 @@ EditorBuildSettings:
     path: Assets/Scenes/Character_Selection.unity
     guid: cdaaef5565137db4e8fafeb01d489973
   - enabled: 1
-    path: Assets/Scenes/Cinematica.unity
-    guid: ed77e3bfad4bf4747ad3e54f3d47bda8
-  - enabled: 1
     path: Assets/Scenes/Juego.unity
     guid: 8e7540d54520ff84db65c7fc74cfc273
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Level_Selector.unity
     guid: cc95dd1efded5f643b4a8b47e8fceb8e
+  - enabled: 1
+    path: Assets/Scenes/Juego(ES2).unity
+    guid: 597d2fcb2e79f3141a14d326ff40d08e
   m_configObjects: {}
